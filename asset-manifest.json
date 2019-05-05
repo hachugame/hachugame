@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hachugame/static/css/main.584f321a.chunk.css",
+    "main.js": "/hachugame/static/js/main.b779af18.chunk.js",
+    "main.js.map": "/hachugame/static/js/main.b779af18.chunk.js.map",
+    "runtime~main.js": "/hachugame/static/js/runtime~main.659efdeb.js",
+    "runtime~main.js.map": "/hachugame/static/js/runtime~main.659efdeb.js.map",
+    "static/js/2.886325e0.chunk.js": "/hachugame/static/js/2.886325e0.chunk.js",
+    "static/js/2.886325e0.chunk.js.map": "/hachugame/static/js/2.886325e0.chunk.js.map",
+    "index.html": "/hachugame/index.html",
+    "precache-manifest.c4abd7ad7f697d35f4ed3a65cacb57d0.js": "/hachugame/precache-manifest.c4abd7ad7f697d35f4ed3a65cacb57d0.js",
+    "service-worker.js": "/hachugame/service-worker.js",
+    "static/css/main.584f321a.chunk.css.map": "/hachugame/static/css/main.584f321a.chunk.css.map",
+    "static/media/hachu.png": "/hachugame/static/media/hachu.2c330888.png"
+  }
+}
